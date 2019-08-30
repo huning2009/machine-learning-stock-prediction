@@ -25,6 +25,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\drale\Documents\GitHub\aice-global-stock" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\drale\Documents\StockLearning\data" />
       <recent name="C:\Users\drale\Documents\StockLearning" />
@@ -110,7 +113,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -2,6 +2,8 @@ from sklearn.datasets import load_iris
 from sklearn.neighbors import KNeighborsClassifier 
 import numpy as np 
 from sklearn.model_selection import train_test_split
+import argparse
 
-singularData = open("data/AMR_quarterly_financial_data.csv").read().splitlines()
-print(singularData)
+parser = argparse.ArgumentParser(description='Process stock data with machine learning')
+parser.add_argument
+
